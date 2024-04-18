@@ -1,0 +1,10 @@
+
+.carousel-inner{
+  width: 100%;
+  
+
+}
+.carousel-control-prev, .carousel-control-next{
+  background-color: #7fffd400;
+  border: #7fffd400;
+}
